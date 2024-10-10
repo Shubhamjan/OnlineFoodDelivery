@@ -1,0 +1,28 @@
+.signin{
+    background-color: lightcoral;
+    
+}
+.markee{
+    color: rgb(228, 53, 44);
+    font-family: "Pacifico", cursive; 
+    /* font-family: Arial, sans-serif; */
+    margin-bottom: 30px;
+}
+.markee1{
+    color: rgb(231, 25, 42);
+    font-family: "Pacifico", cursive; 
+    /* font-family: Arial, sans-serif; */
+}
+.table{
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+.carousel-img {
+    width: 100%; /* Make the image fill the width of the carousel */
+    height: 350px; /* Set a fixed height, adjust as needed */
+    object-fit: cover; /* This ensures that the image maintains aspect ratio and covers the entire area */
+  }
+
+.img{
+    box-shadow: 1px 1px 20px rgb(185, 87, 65);
+}
